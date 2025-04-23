@@ -29,7 +29,7 @@ This question is important because it allows us to see how the relationship betw
 * Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
 * Strengthen adult rehabilitation efforts to reduce recidivism and support reintegration
 
-### The manipulations applied to the data set
+### Manipulations Applied to the Dataset
 
 ### Analysis Visualization
 <img width="1098" alt="Screenshot 2025-04-22 at 9 06 48 PM" src="https://github.com/user-attachments/assets/a1753527-159f-425b-b7cf-82b1c1111425" /> <br>
