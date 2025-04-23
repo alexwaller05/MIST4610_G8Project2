@@ -31,6 +31,16 @@ This question is important because it allows us to see how the relationship betw
 * Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
 * Strengthen adult rehabilitation efforts to reduce recidivism and support reintegration
 
+### Analysis Visualization
+<img width="1098" alt="Screenshot 2025-04-22 at 9 06 48 PM" src="https://github.com/user-attachments/assets/a1753527-159f-425b-b7cf-82b1c1111425" /> <br>
+### Conclusion
+Insights from age group distribution:
+* Younger arrestees (<18, 18-24) have higher rates of Robbery compared to other groups
+* Middle-aged groups (25-44) dominate Felony Assault counts
+* 45-64 have have higher rates of burglary than other groups
+* Older cohorts (65+) show minimal arrest counts across all categories
+* Rape, Murder & Non-Negl Manslaughter, and Grand Larceny of Motor Vehicles is low among all groups 
+
 
 ## Question 2: How does felony distribution differ among each age group?
 ### Why is this question important?
