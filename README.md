@@ -47,11 +47,11 @@ This question is important because it allows us to see how the relationship betw
 
 ### Analysis Conclusion
 Insights from age group distribution:
-• Younger arrestees (<18, 18-24) have higher rates of robbery compared to other groups 
-• Middle-aged groups (both 25-44 and 45-64) dominate felony assault counts
-• 45-64 have have higher rates of burglary than other groups
-• Older cohorts (65+) show minimal arrest counts across all categories
-• Rape, murder & non-negligent manslaughter, and grand larceny of motor vehicles is low among all groups relative to the other major felonies
+* Younger arrestees (<18, 18-24) have higher rates of robbery compared to other groups
+* Middle-aged groups (both 25-44 and 45-64) dominate felony assault counts
+* 45-64 have have higher rates of burglary than other groups
+* Older cohorts (65+) show minimal arrest counts across all categories
+* Rape, murder & non-negligent manslaughter, and grand larceny of motor vehicles is low among all groups relative to the other major felonies
 
 
 ## Question 2: How does felony distribution differ among each age group?
