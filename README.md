@@ -20,11 +20,11 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 
 ### Why is this data important?
 * Helps identify crime trends
-  EX: Arson was the most commonly committed crime between 2012-2015. What did our economy look like then and what trends can we stop now before they lead to this happening again?
+  * EX: Arson was the most commonly committed crime between 2012-2015. What did our economy look like then and what trends can we stop now before they lead to this happening again?
 * Asks the question → “should law enforcement allocate its resources differently?”
-  EX: If in 2023, felony assault was the most frequently reported crime in the Southeast region of NYC then after noticing this pattern, NYPD can strategically place more officers or a different unit  in the Southeast region of the city.
+  * EX: If in 2023, felony assault was the most frequently reported crime in the Southeast region of NYC then after noticing this pattern, NYPD can strategically place more officers or a different unit  in the Southeast region of the city.
 * Advocates for city government to the public.
-  EX: Noticing that NYPD is frequently arresting offenders of rape may increase the public’s opinion of the police department.
+  * EX: Noticing that NYPD is frequently arresting offenders of rape may increase the public’s opinion of the police department.
 
 
 ### Columns:
