@@ -35,7 +35,7 @@ This question is important because it allows us to see how the relationship betw
 
 ### Analysis Visualization
 <img width="1098" alt="Screenshot 2025-04-22 at 9 06 48 PM" src="https://github.com/user-attachments/assets/a1753527-159f-425b-b7cf-82b1c1111425" /> <br>
-### Conclusion
+### Analysis Conclusion
 Insights from age group distribution:
 * Younger arrestees (<18, 18-24) have higher rates of Robbery compared to other groups
 * Middle-aged groups (25-44) dominate Felony Assault counts
@@ -56,7 +56,7 @@ This question is important because understanding how felony types are distribute
 
 ### Analysis Visualization
 <img width="961" alt="Screenshot 2025-04-22 at 9 10 45 PM" src="https://github.com/user-attachments/assets/df987def-27e3-4817-aac3-86f09064568f" /> <br>
-### Conclusion
+### Analysis Conclusion
 Based on the one-year forecast:
 * Felony Assault shows the highest predicted count
 * Grand Larceny and Robbery follow closely and have similar rates to each other
