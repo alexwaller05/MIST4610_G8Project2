@@ -1,7 +1,6 @@
 # MIST 4610 Group Project 2 - Group 8
 
-## Group Name:
-21482 Group 8
+## Group Name: 21482 Group 8
 
 ## Team Members:
 
