@@ -32,6 +32,9 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 
 <img width="808" alt="Screenshot 2025-04-22 at 8 53 59 PM" src="https://github.com/user-attachments/assets/42abe840-e3d6-40e5-b270-cf1aa6520039" />
 
+### Manipulations Applied to the Dataset
+****blank*****
+
 ## Question 1: How does distribution of each of the 7 major felonies differ among each age group?
 ### Why is this question important?
 This question is important because it allows us to see how the relationship between age and felony type has evolved over time and helps us understand which age groups are most involved in certain types of crimes. This information can inform policy decisions and resource allocation. For instance, law enforcement and community organizations can:
@@ -39,9 +42,7 @@ This question is important because it allows us to see how the relationship betw
 * Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
 * Strengthen adult rehabilitation efforts to reduce recidivism and support reintegration
 
-### Manipulations Applied to the Dataset
-****blank*****
-### Analysis Visualization
+### Question 1 - Analysis Visualization
 <img width="1098" alt="Screenshot 2025-04-22 at 9 06 48 PM" src="https://github.com/user-attachments/assets/a1753527-159f-425b-b7cf-82b1c1111425" /> <br>
 ### Analysis Conclusion
 Insights from age group distribution:
@@ -60,9 +61,7 @@ This question is important because understanding how felony types are distribute
 * Guide policy and budgeting: Provides data‑driven justification for funding specialized task forces or community resources focused on the highest‐risk felony types.
 * Measures policy effectiveness: If a citywide violence‑prevention initiative comes into action and the actual assault arrests come in below your forecasted baseline, that gap quantifies how much crime the program likely prevented.
 
-### The manipulations applied to the data set
-
-### Analysis Visualization
+### Question 2 - Analysis Visualization
 <img width="961" alt="Screenshot 2025-04-22 at 9 10 45 PM" src="https://github.com/user-attachments/assets/df987def-27e3-4817-aac3-86f09064568f" /> <br>
 ### Analysis Conclusion
 Based on the one-year forecast:
