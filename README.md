@@ -36,6 +36,7 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 Question 1:
 * Aggregated monthly counts by the Seven Major Felony categories
 * Removed extreme ages such as 200+,  years (i.e. 1916), and “Unknown”
+<br>
 Question 2:
 * Mapped offense descriptions into 7 felony categories via CASE WHEN
 * Filtered data to 2020 and beyond (for forecast analysis)
