@@ -34,7 +34,7 @@ This question is important because it allows us to see how the relationship betw
 
 ## Question 2: How does felony distribution differ among each age group?
 ### Why is this question important?
-This question is important because understanding how felony types are distributed across different age groups can help policymakers and law enforcement agencies tailor their crime prevention strategies. Ultimately, this analysis supports more efficient, age-specific approaches to reducing crime and recidivism.
+This question is important because understanding how felony types are distributed across different age groups can help policymakers and law enforcement agencies tailor their crime prevention strategies. Ultimately, this analysis supports more efficient and specific approaches to reducing crime and recidivism.
 * Anticipate crime trends: Allows agencies to forecast surges in violent offenses and prepare proactive strategies rather than reacting after the fact.
 * Optimize resource allocation: Helps police departments assign patrols, detectives, and support services to the units most likely to see increased cases.
 * Guide policy and budgeting: Provides data‑driven justification for funding specialized task forces or community resources focused on the highest‐risk felony types.
