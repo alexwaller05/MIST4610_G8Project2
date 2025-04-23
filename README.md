@@ -44,6 +44,7 @@ This question is important because it allows us to see how the relationship betw
 
 ### Question 1 - Analysis Visualization
 <img width="1422" alt="image" src="https://github.com/user-attachments/assets/12cfc8ac-b326-43b0-a857-3034b40fdeca" />
+
 ### Analysis Conclusion
 Insights from age group distribution:
 * Younger arrestees (<18, 18-24) have higher rates of Robbery compared to other groups
