@@ -32,5 +32,11 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 <img width="808" alt="Screenshot 2025-04-22 at 8 53 59 PM" src="https://github.com/user-attachments/assets/42abe840-e3d6-40e5-b270-cf1aa6520039" />
 
 ## Question 1: How does distribution of each of the 7 major felonies differ among each age group?
+### Why is this question important? <br>
+This question is important because it allows us to see how the relationship between age and felony type has evolved over time and helps us understand which age groups are most involved in certain types of crimes. This information can inform policy decisions and resource allocation. For instance, law enforcement and community organizations can:
+* Allocate more resources to age groups with higher crime rates
+* Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
+* Strengthen adult rehabilitation efforts to reduce recidivism and support reintegration
+
 
 ## Question 2: How does felony distribution differ among each age group?
