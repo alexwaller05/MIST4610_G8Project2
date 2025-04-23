@@ -10,7 +10,6 @@
 3. Ayush Desai [@Ayush-des](https://github.com/Ayush-des)
 4. Mithun Fernandez [@MFernandez2005](https://www.github.com/MFernandez2005)
 5. Alex Waller [@alexwaller05](https://www.github.com/alexwaller05)
-## Task Description: 
 
 ## Dataset Description:
 ### Basic features & description:
