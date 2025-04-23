@@ -14,14 +14,7 @@
 
 ## Dataset Description:
 ### Basic features & description:
-
-* Each recorded arrest by NYPD from 2006 to 2024
-
-* Taken from data.gov, a public information database
-
-* Information such as: perpetrator description, offense description, and location of the arrest
-
-* 5,986,025  rows & 19 columns
+The dataset provides comprehensive records of each arrest made by the NYPD from 2006 to 2024, totaling nearly 5,986,025 rows of entries across 19 columns. Sourced from data.gov, a public information repository, this dataset captures key details such as the perpetrator’s demographic information, the type of offense committed, and the location of each arrest. It offers valuable insights for analyzing crime trends, demographic patterns, and law enforcement activity across New York City over nearly two decades.
 
 In Microsoft Excel, the data is viewable as individual rows that reference each recorded arrest and 19 columns that describe a different facet of the arrest (location, the perpetrator’s gender, etc.).
 
