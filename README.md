@@ -33,10 +33,10 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 <img width="808" alt="Screenshot 2025-04-22 at 8 53 59 PM" src="https://github.com/user-attachments/assets/42abe840-e3d6-40e5-b270-cf1aa6520039" />
 
 ### Manipulations Applied to the Dataset
-### Question 1:
+### - Question 1:
 * Aggregated monthly counts by the Seven Major Felony categories
 * Removed extreme ages such as 200+, years (i.e. 1916), and “Unknown”
-### Question 2:
+### - Question 2:
 * Mapped offense descriptions into 7 felony categories via `CASE WHEN`
 * Filtered data to 2020 and beyond (for forecast analysis)
 * Aggregated monthly counts by Felony Category
