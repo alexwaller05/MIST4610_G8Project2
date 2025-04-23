@@ -25,7 +25,7 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 <img width="808" alt="Screenshot 2025-04-22 at 8 53 59 PM" src="https://github.com/user-attachments/assets/42abe840-e3d6-40e5-b270-cf1aa6520039" />
 
 ## Question 1: How does distribution of each of the 7 major felonies differ among each age group?
-### Why is this question important? <br>
+### Why is this question important?
 This question is important because it allows us to see how the relationship between age and felony type has evolved over time and helps us understand which age groups are most involved in certain types of crimes. This information can inform policy decisions and resource allocation. For instance, law enforcement and community organizations can:
 * Allocate more resources to age groups with higher crime rates
 * Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
@@ -33,3 +33,10 @@ This question is important because it allows us to see how the relationship betw
 
 
 ## Question 2: How does felony distribution differ among each age group?
+### Why is this question important?
+This question is important because understanding how felony types are distributed across different age groups can help policymakers and law enforcement agencies tailor their crime prevention strategies. Ultimately, this analysis supports more efficient, age-specific approaches to reducing crime and recidivism.
+* Anticipate crime trends: Allows agencies to forecast surges in violent offenses and prepare proactive strategies rather than reacting after the fact.
+* Optimize resource allocation: Helps police departments assign patrols, detectives, and support services to the units most likely to see increased cases.
+* Guide policy and budgeting: Provides data‑driven justification for funding specialized task forces or community resources focused on the highest‐risk felony types.
+* Measures policy effectiveness: If a citywide violence‑prevention initiative comes into action and the actual assault arrests come in below your forecasted baseline, that gap quantifies how much crime the program likely prevented.
+
