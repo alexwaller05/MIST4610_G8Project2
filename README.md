@@ -32,21 +32,16 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 
 <img width="808" alt="Screenshot 2025-04-22 at 8 53 59 PM" src="https://github.com/user-attachments/assets/42abe840-e3d6-40e5-b270-cf1aa6520039" />
 
-### Manipulations Applied to the Dataset
-### Question 1:
-* Aggregated monthly counts by the Seven Major Felony categories
-* Removed extreme ages such as 200+, years (i.e. 1916), and “Unknown”
-### Question 2:
-* Mapped offense descriptions into 7 felony categories via `CASE WHEN`
-* Filtered data to 2020 and beyond (for forecast analysis)
-* Aggregated monthly counts by Felony Category
-
 ## Question 1: How does distribution of each of the 7 major felonies differ among each age group?
 ### Why is this question important?
 This question is important because it allows us to see how the relationship between age and felony type has evolved over time and helps us understand which age groups are most involved in certain types of crimes. This information can inform policy decisions and resource allocation. For instance, law enforcement and community organizations can:
 * Allocate more resources to age groups with higher crime rates
 * Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
 * Strengthen adult rehabilitation efforts to reduce recidivism and support reintegration
+  
+### Manipulations Applied to the Dataset for Question 1
+* Aggregated monthly counts by the Seven Major Felony categories
+* Removed extreme ages such as 200+, years (i.e. 1916), and “Unknown”
 
 ### Question 1 - Analysis Visualization
 <img width="1422" alt="image" src="https://github.com/user-attachments/assets/12cfc8ac-b326-43b0-a857-3034b40fdeca" />
@@ -67,6 +62,11 @@ This question is important because understanding how felony types are distribute
 * Optimize resource allocation: Helps police departments assign patrols, detectives, and support services to the units most likely to see increased cases.
 * Guide policy and budgeting: Provides data‑driven justification for funding specialized task forces or community resources focused on the highest‐risk felony types.
 * Measures policy effectiveness: If a citywide violence‑prevention initiative comes into action and the actual assault arrests come in below your forecasted baseline, that gap quantifies how much crime the program likely prevented.
+
+### Manipulations Applied to the Dataset for Question 2
+* Mapped offense descriptions into 7 felony categories via `CASE WHEN`
+* Filtered data to 2020 and beyond (for forecast analysis)
+* Aggregated monthly counts by Felony Category
 
 ### Question 2 - Analysis Visualization
 <img width="961" alt="Screenshot 2025-04-22 at 9 10 45 PM" src="https://github.com/user-attachments/assets/df987def-27e3-4817-aac3-86f09064568f" /> <br>
