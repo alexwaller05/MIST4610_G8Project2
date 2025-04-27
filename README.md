@@ -51,9 +51,10 @@ This question is important because it helps to understand the relationship betwe
 Insights from age group distribution:
 * Younger arrestees (<18, 18-24) have higher rates of robbery compared to other groups
 * Middle-aged groups (both 25-44 and 45-64) dominate felony assault counts
-* 45-64 have have higher rates of burglary than other groups
+* 45-64 have higher rates of burglary than other groups
 * Older cohorts (65+) show minimal arrest counts across all categories
 * Rape, murder & non-negligent manslaughter, and grand larceny of motor vehicles is low among all groups relative to the other major felonies
+
 Based on the analysis of age and felony patterns, key findings reveal distinct correlations. Robbery arrests are proportionally higher among younger individuals (<18 and 18-24 years old), while Felony Assault arrests peak within the 25-44 age group and remain high for those aged 45-64. Burglary shows higher rates specifically within the 45-64 age group compared to others. Conversely, arrests for Rape, Murder, and Grand Larceny Auto are relatively low across all age groups compared to the other major felonies, and arrests are minimal across all categories for the 65+ age group. These findings imply that targeted youth outreach and intervention programs may be crucial for addressing robbery. Additionally, assault prevention and response strategies need a significant focus on the 25-64 age range, highlighting that different crime prevention strategies are likely necessary for different age demographics.
 
 
