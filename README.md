@@ -19,12 +19,7 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 * For example, one row may contain the following information: 272061744 (arrest number/identifier), 7/29/2023 (arrest date), STRANGULATION 1ST (crime/has the perpetrator  committed this before?), 106 (offense identifier), FELONY ASSAULT (offense description), ...
 
 ### Why is this data important?
-* Helps identify crime trends
-  * EX: Arson was the most commonly committed crime between 2012-2015. What did our economy look like then and what trends can we stop now before they lead to this happening again?
-* Asks the question → “should law enforcement allocate its resources differently?”
-  * EX: If in 2023, felony assault was the most frequently reported crime in the Southeast region of NYC then after noticing this pattern, NYPD can strategically place more officers or a different unit  in the Southeast region of the city.
-* Advocates for city government to the public.
-  * EX: Noticing that NYPD is frequently arresting offenders of rape may increase the public’s opinion of the police department.
+Analyzing this NYPD arrest data is important because it allows for the identification of significant crime trends over time. Furthermore, this analysis informs strategic resource allocation for law enforcement, such as focusing patrols based on crime hotspots or specific types of offenses, and provides data-driven insights crucial for shaping policy decisions and developing effective prevention programs. 
 
 
 ### Columns:
@@ -32,16 +27,22 @@ In Microsoft Excel, the data is viewable as individual rows that reference each 
 
 <img width="808" alt="Screenshot 2025-04-22 at 8 53 59 PM" src="https://github.com/user-attachments/assets/42abe840-e3d6-40e5-b270-cf1aa6520039" />
 
-## Question 1: How does distribution of each of the 7 major felonies differ among each age group?
+## For our questions, we focused on the seven major felonies. But what are they, and why are they important?
+According to NYC.gov, the seven major felonies are a category of crimes that vary by state. 
+In the state of New York, this category that refer to murder and non-negligent manslaughter, forcible rape, robbery, felonious assault, burglary, grand larceny, and grand larceny auto.
+According to the New York State Criminal Justice Services, the classification of the “seven major felonies” originates from the FBI’s Uniform Crime Reporting Program, which was established in 1930 to standardize crime statistics across the United States for consistent tracking and comparison of crime trends nationwide. Focusing on these specific felonies helps in analyzing trends and patterns in serious crime.
+
+## Preparing the data 
+To prepare the data for analysis, the focus was narrowed to the seven major felonies as defined by the FBI/NYS; this involved using a CASE WHEN statement on the Ofns Desc field to categorize arrests accordingly. For the first question concerning age analysis (Q1), data cleaning was performed to remove records with invalid age entries, such as 'Unknown', '200+', or birth years, ensuring accurate age group comparisons. For the second question regarding trend analysis (Q2), the data was filtered to include only records from 2020 onwards to analyze recent trends and generate a relevant forecast. Finally, aggregation was applied by grouping the data by month, felony type, and age group as needed for visualization and further analysis.
+
+## Question 1: How does the distribution of major felonies differ across age groups?
 ### Why is this question important?
-This question is important because it allows us to see how the relationship between age and felony type has evolved over time and helps us understand which age groups are most involved in certain types of crimes. This information can inform policy decisions and resource allocation. For instance, law enforcement and community organizations can:
-* Allocate more resources to age groups with higher crime rates
-* Implement youth intervention programs, such as school-based initiatives and mentorship opportunities
-* Strengthen adult rehabilitation efforts to reduce recidivism and support reintegration
+This question is important because it helps to understand the relationship between age and specific types of major felonies, allowing for the identification of age groups that are disproportionately involved in certain crimes. Understanding these patterns is crucial as it informs targeted policy decisions and resource allocation. For instance, this knowledge enables law enforcement and community organizations to more effectively allocate resources towards age groups exhibiting higher crime rates, implement tailored youth intervention programs (like school-based initiatives or mentorship opportunities), and strengthen adult rehabilitation efforts focused on reducing recidivism and supporting reintegration.
   
 ### Manipulations Applied to the Dataset for Question 1
 * Aggregated monthly counts by the Seven Major Felony categories
 * Removed extreme ages such as 200+, years (i.e. 1916), and “Unknown”
+* The percentages on the chart represent the proportion of total arrests within each specific age group that corresponds to each particular major felony type.
 
 ### Question 1 - Analysis Visualization
 <img width="1422" alt="image" src="https://github.com/user-attachments/assets/12cfc8ac-b326-43b0-a857-3034b40fdeca" />
@@ -53,9 +54,10 @@ Insights from age group distribution:
 * 45-64 have have higher rates of burglary than other groups
 * Older cohorts (65+) show minimal arrest counts across all categories
 * Rape, murder & non-negligent manslaughter, and grand larceny of motor vehicles is low among all groups relative to the other major felonies
+Based on the analysis of age and felony patterns, key findings reveal distinct correlations. Robbery arrests are proportionally higher among younger individuals (<18 and 18-24 years old), while Felony Assault arrests peak within the 25-44 age group and remain high for those aged 45-64. Burglary shows higher rates specifically within the 45-64 age group compared to others. Conversely, arrests for Rape, Murder, and Grand Larceny Auto are relatively low across all age groups compared to the other major felonies, and arrests are minimal across all categories for the 65+ age group. These findings imply that targeted youth outreach and intervention programs may be crucial for addressing robbery. Additionally, assault prevention and response strategies need a significant focus on the 25-64 age range, highlighting that different crime prevention strategies are likely necessary for different age demographics.
 
 
-## Question 2: How does felony distribution differ among each age group?
+## Question 2: Which major felony arrests show the highest volumes or are increasing most significantly?
 ### Why is this question important?
 This question is important because understanding how felony types are distributed across different age groups can help policymakers and law enforcement agencies tailor their crime prevention strategies. Ultimately, this analysis supports more efficient and specific approaches to reducing crime and recidivism.
 * Anticipate crime trends: Allows agencies to forecast surges in violent offenses and prepare proactive strategies rather than reacting after the fact.
